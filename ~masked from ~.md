@@ -1,7 +1,6 @@
 # How to resolve error you face in R in MAC M1pro 
 
-## "The following object is masked from 'package:base': 
-      errorCondition   " 
+## "The following object is masked from 'package:base': errorCondition   " 
 
 ### Situation 
 typed below and got a error message saying " ~ masked ~ errorCondtion"
